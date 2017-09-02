@@ -3,6 +3,7 @@
 1. Install python2-pip package
 
     yum -y install epel-release
+
     yum -y install python2-pip
 
     OR
